@@ -48,7 +48,7 @@ We spare partial computing power for the computing module and extend the NVMe in
                                  ++=================================================++
 ```
 
-### Host-side: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; CSD-side:
+### Host-side: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; CSD-side:
 
 1. Allocate app memory for input/output;
 2. Send app parameters;

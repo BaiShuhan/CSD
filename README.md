@@ -12,4 +12,6 @@ Data are now accumulating exponentially in the Internet era, and how to process 
 
 ## Framework
 
+<p align = "justify">
 We spare partial computing power for the computing module and extend the NVMe interface for task assignment and return results. We carefully and fully utilize the computing power of each processor and adopt a parallelizable strategy to improve overall system performance. Moreover, as a role of storage, the original function of the SSD should not be affected, such as FTL and normal I/O. To leverage the computational modules in the SSD, the device driver and the interface between the device and host should also be modified correspondingly. At this stage, the lightweight computational SSD can work with basic functions, and support end-to-end workflow, as shown in the following:
+</p>

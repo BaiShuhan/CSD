@@ -53,4 +53,4 @@ We spare partial computing power for the computing module and extend the NVMe in
 1. Allocate app memory for input/output;
 2. Send app parameters;
 3. Send LBA list to device;
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; a. Send PBA address;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; a. Send PBA address;

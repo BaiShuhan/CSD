@@ -54,3 +54,8 @@ We spare partial computing power for the computing module and extend the NVMe in
 2. Send app parameters;
 3. Send LBA list to device;
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; a. Send PBA address;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; b. Read data from flash chips;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; c. Device app computing;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; d. Place results to output memory;
+4. Retrieve results from device to host;
+5. Free resources.

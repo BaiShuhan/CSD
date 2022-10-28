@@ -1,6 +1,8 @@
 # CSD (Computational Storage Drive)
 
+<p align = "justify">
 Data are now accumulating exponentially in the Internet era, and how to process massive data efficiently has drawn much attention in recent years. Although distributed systems and hardware accelerators can alleviate this problem to a certain extent, more and more researches demonstrate that the main bottleneck of performance degradation is often data transmission. Under the conventional architecture, data are usually transferred from the storage to the host. However, moving vast amounts of data may lead to not only response latency but also higher energy consumption. In-storage computing has been considered as one of the directions to relieve the data transfer bottleneck. We fully exploit the intrinsic computing power of the real ARM-based NVMe SSD without additional processors to build a Lightweight CSD (Computational Storage Drive). By redesigning the firmware of the customized SSD, the inside ARM cores of the SSD will also take charge of computational tasks and only need to return the results with a much smaller data size. Equipped with this lightweight computational storage, the system performance will achieve great improvement by eliminating redundant data transmission to the host and offloading partial computations to the storage. Besides, the energy consumption of the heterogeneous system will also be significantly reduced.
+</p>
 
 ## Motivation
 

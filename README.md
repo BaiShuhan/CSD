@@ -17,7 +17,7 @@ We spare partial computing power for the computing module and extend the NVMe in
 </p>
 
 ++================================================++<br />
-||&nbsp;   +----------------------------------------+   ||<br />
+||&nbsp;&nbsp;&nbsp;+----------------------------------------+&nbsp;&nbsp;&nbsp;||<br />
 ||   |          CSD Host Application          |   ||<br />
 ||   +----------------------------------------+   ||<br />
 ||              $\updownarrow$                    ||<br />

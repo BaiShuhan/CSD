@@ -1,1 +1,1 @@
-# computational_storage_drive
+# CSD (Computational Storage Drive)

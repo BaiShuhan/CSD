@@ -6,9 +6,9 @@ Data are now accumulating exponentially in the Internet era, and how to process 
 
 ## Motivation
 
-1. Redundant data movement (page migrations of the block-based interface induce tremendous I/O traffic)
-2. High energy consumption (I/O traffic and computations)
-3. Long I/O stack (obvious for high performance SSD)
+1. Redundant data movement (page migrations of the block-based interface induce tremendous I/O traffic);
+2. High energy consumption (I/O traffic and computations);
+3. Long I/O stack (obvious for high performance SSD).
 
 ## Framework
 
